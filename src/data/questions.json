@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "choices": ["Berlin", "London", "Paris", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "choices": ["3", "4", "5", "6"],
+        "answer": "4"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "choices": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the speed of light?",
+        "choices": ["300,000 km/s", "150,000 km/s", "100,000 km/s", "200,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "choices": ["Monaco", "Vatican City", "Malta", "San Marino"],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "choices": ["K2", "Kangchenjunga", "Lhotse", "Mount Everest"],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choices": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "choices": ["HO", "H2O", "O2", "H2"],
+        "answer": "H2O"
+    }
+]
